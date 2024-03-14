@@ -1,3 +1,6 @@
+![logo](https://raw.githubusercontent.com/Lakheras99/SUMER-LAKHERA/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Sumer Lakhera</h1>
 <h3 align="center">A passionate Full stack flutter developer from ♥️India♥️</h3>
 
